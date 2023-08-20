@@ -1,0 +1,44 @@
+header
+{
+    background-color:rgb(15 23 42 );
+    padding: 32px;
+
+}.main-header
+{
+    max-width: 1280px;
+   margin: auto;
+    width: 100%;
+}
+.flex
+{
+ display: flex;
+ justify-content: space-between;
+ width: 100%;
+ align-items: center;
+}
+.header-logo img
+{
+    width: 120px;
+    height: auto;
+}
+.cart
+{
+    display: flex;
+    color: white;
+    align-items: center;
+    gap: 12px;
+}
+.cart h6{
+    font-size: 16px;
+    line-height: 19px;
+}
+.cart img
+{
+   width: 32px;
+   height: 32px;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}

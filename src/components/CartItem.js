@@ -24,3 +24,5 @@ export const CartItem = ({cartitem}) => {
     </div>
   )
 }
+
+
